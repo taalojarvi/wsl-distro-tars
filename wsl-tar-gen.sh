@@ -44,6 +44,8 @@ DISTROS=(
     "gentoo/stage3:systemd"
     "kalilinux/kali-rolling"
     "opensuse/tumbleweed"
+    "oraclelinux:9"
+    "oraclelinux:9-slim"
     "ubuntu"
     "ubuntu:devel"
 )
